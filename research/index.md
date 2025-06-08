@@ -28,6 +28,7 @@ Many soft tissues are viscoelastic, exhibiting stress relaxation in response to 
 <div class="col-md-5 order-md-2 align-self-center">
  <img src="/static/img/research/RD1.jpg" class="img-fluid" alt="Viscoelasticity">
 </div>
+</div>
 <div class="row">
 
 ### Biophysics of cell migration
