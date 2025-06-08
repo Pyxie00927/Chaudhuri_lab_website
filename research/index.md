@@ -7,9 +7,9 @@ group: research
 <div class="row">
 
 # Our research
-The long-term goals of our research are to understand how protein conformational ensembles are reshaped by chemical, genetic, and physical perturbations. We seek to quantify how these perturbations impact protein function and organismal fitness. We are best known for creating multitemperature X-ray data collection approaches, which are especially powerful when paired with multiconformer computational modeling to reveal otherwise inaccessible features of conformational ensembles. Our group integrates high resolution structural biology (X-ray, EM, NMR), functional studies (deep mutational scanning, enzymology), and computation to study biological mechanisms and to improve protein engineering and small molecule discovery. Group members move fluidly between computation and experiment, often inventing new methods to answer their questions.
+Cells in our body live in a 3-dimensional and often squishy world. Much of what we know about cell biology is based on studies of cells cultured on petri dishes, or rigid flat sheets of plastic. However, mammalian cells in soft tissues function in 3D microenvironments, which are soft and viscoelastic, and in which cells are surrounded by neighboring cells and an extracellular matrix. Importantly, cells sense and respond to the mechanical properties and dimensionality of the microenvironment, and a 3D microenvironment can be confining, serving as a physical barrier to processes such as cell migration or division that involve shape change or growth. We are interested in elucidating the mechanics of cell-matrix interactions in soft tissues. We seek to understand how the mechanical properties of the extracellular matrix regulate processes such as breast cancer progression, stem cell differentiation, and cell division. Further, we aim to determine the biophysics of cell migration and division in confining 3D microenvironments. Our approach involves the use of engineered biomaterials for 3D cell culture and instrumentation to measure forces at the microscale relevant to cells.
 
-#### We work on many different systems and proteins as we find ourselves drawn, again and again, to the tension of high resolution data in structural biology: as resolution gets better, modeling becomes easier... until the resolution gets too good... and then the ensemble begins to reveal itself and the fun challenges begin.
+#### We work on using biomaterials to study cell biophysics and mechanotransduction, and using them as tools for therapies including drug delivery. 
 <br>
 <br>
 
@@ -61,7 +61,7 @@ The long-term goals of our research are to understand how protein conformational
 </div>
 <div class="row">
 
-### Identifying unifying concepts between systems and structural biology
+### How does increased stiffness promote breast cancer progression?
 
 <div class="col-md-7 order-md-2">
 
@@ -75,7 +75,7 @@ We are intrigued by the similarities in genetic epistasis and thermodynamic meas
 </div>
 <div class="row">
 
-### Creating new time-resolved experiments to probe correlated motions in proteins
+### Tissue and biopolymer gel mechanics
 
 <div class="col-md-7 order-md-1">
 
@@ -90,3 +90,8 @@ Our long-term goal is to increase the information content of every X-ray diffrac
 </div>
 
 </div>
+
+### Biomaterials development
+
+
+### New tools for force microscopy
