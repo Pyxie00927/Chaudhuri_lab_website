@@ -20,9 +20,9 @@ Cells in our body live in a 3-dimensional and often squishy world. Much of what 
 ### Extracellular matrix viscoelasticity and its impact on cells
 <div class="col-md-7 order-md-1 ">
 
-<p>Many soft tissues are viscoelastic, exhibiting stress relaxation in response to a deformation. We have found that extracellular matrix viscoelasticity regulates various cellular behaviors, such as spreading, differentiation, matrix formation, matrix remodeling, migration, and division. We seek to how elucidate the mechanisms by which matrix viscoelasticity influences cell biology, and harness these insights towards the development of new therapies and applications in regenerative medicine. A key finding is that cells utilize stretch-activated ion channels to sense matrix viscoelasticity.<p>
+Many soft tissues are viscoelastic, exhibiting stress relaxation in response to a deformation. We have found that extracellular matrix viscoelasticity regulates various cellular behaviors, such as spreading, differentiation, matrix formation, matrix remodeling, migration, and division. We seek to how elucidate the mechanisms by which matrix viscoelasticity influences cell biology, and harness these insights towards the development of new therapies and applications in regenerative medicine. A key finding is that cells utilize stretch-activated ion channels to sense matrix viscoelasticity.
 
-<p></strong> Relevant publications: </strong>1. Lee, Stowers, and Chaudhuri, Volume expansion and TRPV4 activation regulate stem cell fate in three-dimensional microenvironments , Nature Communications (2019). 2. Lee, et al, Mechanical confinement regulates cartilage matrix formation by chondrocytes , Nature Materials (2017). 3. Chaudhuri, et al., Hydrogels with tunable stress relaxation regulate stem cell fate and activity, Nature Materials (2016). 4. Chaudhuri, et al., Substrate stress relaxation regulates cell spreading, Nature Communications (2015).<p>
+**Relevant publications:** 1. Lee, Stowers, and Chaudhuri, Volume expansion and TRPV4 activation regulate stem cell fate in three-dimensional microenvironments , Nature Communications (2019). 2. Lee, et al, Mechanical confinement regulates cartilage matrix formation by chondrocytes , Nature Materials (2017). 3. Chaudhuri, et al., Hydrogels with tunable stress relaxation regulate stem cell fate and activity, Nature Materials (2016). 4. Chaudhuri, et al., Substrate stress relaxation regulates cell spreading, Nature Communications (2015).
 
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
@@ -34,9 +34,9 @@ Cells in our body live in a 3-dimensional and often squishy world. Much of what 
 
 <div class="col-md-7 order-md-2">
 
-<p>Cell migration is critical for development, immune cell trafficking, wound healing, and metastasis. In many contexts, cells migrate through three-dimensionally confining microenvironments, where extracellular matrix pore size is smaller than that of the cells. For example, during cancer progression, carcinoma cells on the order of 10 microns in size must invade through a nanoporous basement membrane as a first step towards metastasis. We are investigating how cells push, pull, and degrade matrix in order to migrate through 3D tissue microenvironments. A particular area of interest is in understanding the role of matrix mechanical plasticity in mediating invasion and migration of cancer cells.<p>
+Cell migration is critical for development, immune cell trafficking, wound healing, and metastasis. In many contexts, cells migrate through three-dimensionally confining microenvironments, where extracellular matrix pore size is smaller than that of the cells. For example, during cancer progression, carcinoma cells on the order of 10 microns in size must invade through a nanoporous basement membrane as a first step towards metastasis. We are investigating how cells push, pull, and degrade matrix in order to migrate through 3D tissue microenvironments. A particular area of interest is in understanding the role of matrix mechanical plasticity in mediating invasion and migration of cancer cells.
 
-<p></strong>Relevant publications:</strong> 1. Wisdom, et al, Matrix mechanical plasticity regulates cancer cell migration through confining microenvironments , Nature Communications (2018).2. Wisdom, et al, Covalent cross-linking of basement membrane-like matrices physically restricts invasive protrusions in breast cancer cells, Matrix Biology (2019).<p>
+**Relevant publications:** 1. Wisdom, et al, Matrix mechanical plasticity regulates cancer cell migration through confining microenvironments , Nature Communications (2018).2. Wisdom, et al, Covalent cross-linking of basement membrane-like matrices physically restricts invasive protrusions in breast cancer cells, Matrix Biology (2019).
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
@@ -49,9 +49,9 @@ Cells in our body live in a 3-dimensional and often squishy world. Much of what 
 
 <div class="col-md-7 order-md-1 ">
 
-<p>In many physiological contexts, cells divide in mechanically confining viscoelastic microenvironments, where they are surrounded by neighboring cells and ECM. Most of what is known about cell division is based on studies of cells dividing on 2D substrates, where they can simply release from the substrate and divide unrestricted. A mechanically confining microenvironment would be expected to restrict various morphological processes associated with cell cycle progression and cell division. We aim to uncover the how confinement impacts cell cycle progression, and how cells generate forces in order to divide in confining microenvironments.<p>
+In many physiological contexts, cells divide in mechanically confining viscoelastic microenvironments, where they are surrounded by neighboring cells and ECM. Most of what is known about cell division is based on studies of cells dividing on 2D substrates, where they can simply release from the substrate and divide unrestricted. A mechanically confining microenvironment would be expected to restrict various morphological processes associated with cell cycle progression and cell division. We aim to uncover the how confinement impacts cell cycle progression, and how cells generate forces in order to divide in confining microenvironments.
 
-<p></strong>Relevant publications:</strong> 1. Nam and Chaudhuri, Mitotic cells generate protrusive extracellular forces to divide in three-dimensional microenvironments , Nature Physics (2018).2. Nam, et al. Cell cycle progression in confining microenvironments is regulated by a growth-responsive TRPV4-PI3K/Akt-p27Kip1 signaling axis, in press.<p>
+**Relevant publications:** 1. Nam and Chaudhuri, Mitotic cells generate protrusive extracellular forces to divide in three-dimensional microenvironments , Nature Physics (2018).2. Nam, et al. Cell cycle progression in confining microenvironments is regulated by a growth-responsive TRPV4-PI3K/Akt-p27Kip1 signaling axis, in press.
 </div>
 
 <div class="col-md-3 order-md-2 align-self-center">
