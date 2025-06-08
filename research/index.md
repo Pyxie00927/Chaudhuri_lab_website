@@ -33,8 +33,6 @@ Many soft tissues are viscoelastic, exhibiting stress relaxation in response to 
 
 <div class="row">
 
-<div class="row">
-
 ### Biophysics of cell migration
   <div class="col-md-7 order-md-2">
 
@@ -43,15 +41,14 @@ Cell migration is critical for development, immune cell trafficking, wound heali
 **Relevant publications:** **1.** Wisdom, et al, Matrix mechanical plasticity regulates cancer cell migration through confining microenvironments, Nature Communications (2018). **2.** Wisdom, et al, Covalent cross-linking of basement membrane-like matrices physically restricts invasive protrusions in breast cancer cells, Matrix Biology (2019).
 
   </div>
-
   <div class="col-md-5 order-md-1 align-self-center">
     <img src="/static/img/research/RD2.gif" class="img-fluid" alt="Migration gif">
   </div>
-
 </div>
 
 <hr style="border: none; border-top: 1px dashed #ccc; height: 1px;" />
 
+<div class="row">
 
 ###  Cell division: force generation and mechanotransduction
 
