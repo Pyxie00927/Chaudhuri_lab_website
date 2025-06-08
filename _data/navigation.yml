@@ -7,7 +7,7 @@
   group: research
 
 - name: people
-  link: "/people"
+  link: "/members"
   group: people
 
 - name: publications
