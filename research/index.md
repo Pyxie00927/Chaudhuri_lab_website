@@ -35,20 +35,13 @@ Many soft tissues are viscoelastic, exhibiting stress relaxation in response to 
 
 <div class="row">
 
+### Biophysics of cell migration
   <div class="col-md-7 order-md-2">
-    <h3>Biophysics of cell migration</h3>
-    <p>
-      Cell migration is critical for development, immune cell trafficking, wound healing, and metastasis.
-      In many contexts, cells migrate through three-dimensionally confining microenvironments, where extracellular matrix pore size is smaller than that of the cells.
-      For example, during cancer progression, carcinoma cells on the order of 10 microns in size must invade through a nanoporous basement membrane as a first step towards metastasis.
-      We are investigating how cells push, pull, and degrade matrix in order to migrate through 3D tissue microenvironments.
-      A particular area of interest is in understanding the role of matrix mechanical plasticity in mediating invasion and migration of cancer cells.
-    </p>
-    <p>
-      <strong>Relevant publications:</strong>
-      <strong>1.</strong> Wisdom, et al, <em>Matrix mechanical plasticity regulates cancer cell migration through confining microenvironments</em>, Nature Communications (2018).
-      <strong>2.</strong> Wisdom, et al, <em>Covalent cross-linking of basement membrane-like matrices physically restricts invasive protrusions in breast cancer cells</em>, Matrix Biology (2019).
-    </p>
+
+Cell migration is critical for development, immune cell trafficking, wound healing, and metastasis. In many contexts, cells migrate through three-dimensionally confining microenvironments, where extracellular matrix pore size is smaller than that of the cells. For example, during cancer progression, carcinoma cells on the order of 10 microns in size must invade through a nanoporous basement membrane as a first step towards metastasis. We are investigating how cells push, pull, and degrade matrix in order to migrate through 3D tissue microenvironments. A particular area of interest is in understanding the role of matrix mechanical plasticity in mediating invasion and migration of cancer cells.
+
+**Relevant publications:** **1.** Wisdom, et al, Matrix mechanical plasticity regulates cancer cell migration through confining microenvironments, Nature Communications (2018). **2.** Wisdom, et al, Covalent cross-linking of basement membrane-like matrices physically restricts invasive protrusions in breast cancer cells, Matrix Biology (2019).
+
   </div>
 
   <div class="col-md-5 order-md-1 align-self-center">
