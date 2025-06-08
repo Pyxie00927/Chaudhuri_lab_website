@@ -25,14 +25,15 @@ Many soft tissues are viscoelastic, exhibiting stress relaxation in response to 
 **Relevant publications:** 1. Lee, Stowers, and Chaudhuri, Volume expansion and TRPV4 activation regulate stem cell fate in three-dimensional microenvironments , Nature Communications (2019). 2. Lee, et al, Mechanical confinement regulates cartilage matrix formation by chondrocytes , Nature Materials (2017). 3. Chaudhuri, et al., Hydrogels with tunable stress relaxation regulate stem cell fate and activity, Nature Materials (2016). 4. Chaudhuri, et al., Substrate stress relaxation regulates cell spreading, Nature Communications (2015).
 
 </div>
-<div class="col-md-5 order-md-2 align-self-center">
+<div class="col-md-3 order-md-2 align-self-center">
  <img src="/static/img/research/RD1.jpg" class="img-fluid" alt="Viscoelasticity">
 </div>
 </div>
+<hr style="border: none; border-top: 1px dashed #ccc; height: 1px;"/>
+
 <div class="row">
 
 ### Biophysics of cell migration
-
 <div class="col-md-7 order-md-2">
 
 Cell migration is critical for development, immune cell trafficking, wound healing, and metastasis. In many contexts, cells migrate through three-dimensionally confining microenvironments, where extracellular matrix pore size is smaller than that of the cells. For example, during cancer progression, carcinoma cells on the order of 10 microns in size must invade through a nanoporous basement membrane as a first step towards metastasis. We are investigating how cells push, pull, and degrade matrix in order to migrate through 3D tissue microenvironments. A particular area of interest is in understanding the role of matrix mechanical plasticity in mediating invasion and migration of cancer cells.
@@ -40,7 +41,7 @@ Cell migration is critical for development, immune cell trafficking, wound heali
 **Relevant publications:** 1. Wisdom, et al, Matrix mechanical plasticity regulates cancer cell migration through confining microenvironments , Nature Communications (2018).2. Wisdom, et al, Covalent cross-linking of basement membrane-like matrices physically restricts invasive protrusions in breast cancer cells, Matrix Biology (2019).
 </div>
 
-<div class="col-md-5 order-md-1 align-self-center">
+<div class="col-md-3 order-md-1 align-self-center">
 <img class="img-fluid" src="/static/img/research/RD2.gif"  alt="ptp1b"> 
 </div>
 </div>
