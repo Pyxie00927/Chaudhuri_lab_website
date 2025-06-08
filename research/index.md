@@ -45,7 +45,7 @@ Cell migration is critical for development, immune cell trafficking, wound heali
   </div>
 
   <div class="col-md-5 order-md-1 align-self-center">
-    <img class="img-fluid" src="/static/img/research/RD2.gif" alt="Migration gif">
+    <img src="/static/img/research/RD2.gif" class="img-fluid" alt="Migration gif">
   </div>
 
 </div>
