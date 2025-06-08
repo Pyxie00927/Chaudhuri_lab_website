@@ -41,10 +41,11 @@ Cell migration is critical for development, immune cell trafficking, wound heali
 **Relevant publications:** 1. Wisdom, et al, Matrix mechanical plasticity regulates cancer cell migration through confining microenvironments , Nature Communications (2018).2. Wisdom, et al, Covalent cross-linking of basement membrane-like matrices physically restricts invasive protrusions in breast cancer cells, Matrix Biology (2019).
 </div>
 
-<div class="col-md-3 order-md-1 align-self-center">
+<div class="col-md-5 order-md-1 align-self-center">
 <img class="img-fluid" src="/static/img/research/RD2.gif"  alt="ptp1b"> 
 </div>
 </div>
+<hr style="border: none; border-top: 1px dashed #ccc; height: 1px;"/>
 <div class="row">
 
 ###  Cell division: force generation and mechanotransduction
@@ -56,11 +57,12 @@ In many physiological contexts, cells divide in mechanically confining viscoelas
 **Relevant publications:** 1. Nam and Chaudhuri, Mitotic cells generate protrusive extracellular forces to divide in three-dimensional microenvironments , Nature Physics (2018).2. Nam, et al. Cell cycle progression in confining microenvironments is regulated by a growth-responsive TRPV4-PI3K/Akt-p27Kip1 signaling axis, in press.
 </div>
 
-<div class="col-md-3 order-md-2 align-self-center">
+<div class="col-md-5 order-md-2 align-self-center">
 
 <img class="img-fluid" src="/static/img/pub/2019_li_pellegrino.jpg" alt="antibiotic">
 </div>
 </div>
+<hr style="border: none; border-top: 1px dashed #ccc; height: 1px;"/>
 <div class="row">
 
 ### How does increased stiffness promote breast cancer progression?
