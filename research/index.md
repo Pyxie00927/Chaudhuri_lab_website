@@ -37,12 +37,17 @@ Many soft tissues are viscoelastic, exhibiting stress relaxation in response to 
 <table>
 <tr>
 <td style="width:65%; vertical-align:top;">
+<p>
+Many soft tissues are viscoelastic, exhibiting stress relaxation in response to deformation. We have found that extracellular matrix viscoelasticity regulates diverse cellular behaviors, including spreading, differentiation, matrix formation and remodeling, migration, and division. Our research aims to elucidate the mechanisms by which matrix viscoelasticity influences cell biology and to harness these insights to develop novel therapies and applications in regenerative medicine. A key finding is that cells use stretch-activated ion channels to sense matrix viscoelasticity.
+</p>
 
-Many soft tissues are viscoelastic, exhibiting stress relaxation in response to a deformation. We have found that extracellular matrix viscoelasticity regulates various cellular behaviors, such as spreading, differentiation, matrix formation, matrix remodeling, migration, and division. We seek to how elucidate the mechanisms by which matrix viscoelasticity influences cell biology, and harness these insights towards the development of new therapies and applications in regenerative medicine. A key finding is that cells utilize stretch-activated ion channels to sense matrix viscoelasticity.
-<br>
-
-**Relevant publications:** 
-**1.** Lee, Stowers, and Chaudhuri, Volume expansion and TRPV4 activation regulate stem cell fate in three-dimensional microenvironments , Nature Communications (2019). **2.** Lee, et al, Mechanical confinement regulates cartilage matrix formation by chondrocytes , Nature Materials (2017). 3. Chaudhuri, et al., Hydrogels with tunable stress relaxation regulate stem cell fate and activity, Nature Materials (2016). 4. Chaudhuri, et al., Substrate stress relaxation regulates cell spreading, Nature Communications (2015).
+<p>
+<strong>Relevant publications:</strong><br>
+<strong>1.</strong> Lee, Stowers, and Chaudhuri, <em>Volume expansion and TRPV4 activation regulate stem cell fate in three-dimensional microenvironments</em>, <i>Nature Communications</i> (2019).<br>
+<strong>2.</strong> Lee, et al., <em>Mechanical confinement regulates cartilage matrix formation by chondrocytes</em>, <i>Nature Materials</i> (2017).<br>
+<strong>3.</strong> Chaudhuri, et al., <em>Hydrogels with tunable stress relaxation regulate stem cell fate and activity</em>, <i>Nature Materials</i> (2016).<br>
+<strong>4.</strong> Chaudhuri, et al., <em>Substrate stress relaxation regulates cell spreading</em>, <i>Nature Communications</i> (2015).
+</p>
 </td>
 <td style="width:35%; text-align:right;">
 <img src="/static/img/research/RD1.jpg" class="img-fluid" alt="Viscoelasticity">
@@ -77,14 +82,15 @@ Cell migration is critical for development, immune cell trafficking, wound heali
 <table>
 <tr>
 <td style="width:65%; vertical-align:top;">
+<p>
+Cell migration is essential for processes such as development, immune cell trafficking, wound healing, and metastasis. In many physiological and pathological contexts, cells migrate through three-dimensionally confining microenvironments where the extracellular matrix pore size is smaller than the cells themselves. For instance, during cancer progression, carcinoma cells—typically around 10 microns in diameter—must invade through a nanoporous basement membrane as an early step toward metastasis. We are investigating how cells push, pull, and degrade the matrix to migrate through these 3D tissue environments. A particular focus of our research is understanding the role of matrix mechanical plasticity in mediating cancer cell invasion and migration.
+</p>
 
-Cell migration is critical for development, immune cell trafficking, wound healing, and metastasis. In many contexts, cells migrate through three-dimensionally confining microenvironments, where extracellular matrix pore size is smaller than that of the cells. For example, during cancer progression, carcinoma cells on the order of 10 microns in size must invade through a nanoporous basement membrane as a first step towards metastasis. We are investigating how cells push, pull, and degrade matrix in order to migrate through 3D tissue microenvironments. A particular area of interest is in understanding the role of matrix mechanical plasticity in mediating invasion and migration of cancer cells.
-
-<br>
-
-**Relevant publications:**  
-**1.** Wisdom, et al, *Matrix mechanical plasticity regulates cancer cell migration through confining microenvironments*, Nature Communications (2018).  
-**2.** Wisdom, et al, *Covalent cross-linking of basement membrane-like matrices physically restricts invasive protrusions in breast cancer cells*, Matrix Biology (2019).
+<p>
+<strong>Relevant publications:</strong><br>
+<strong>1.</strong> Wisdom, et al., <em>Matrix mechanical plasticity regulates cancer cell migration through confining microenvironments</em>, <i>Nature Communications</i> (2018).<br>
+<strong>2.</strong> Wisdom, et al., <em>Covalent cross-linking of basement membrane-like matrices physically restricts invasive protrusions in breast cancer cells</em>, <i>Matrix Biology</i> (2019).
+</p>
 
 </td>
 <td style="width:35%; text-align:right;">
