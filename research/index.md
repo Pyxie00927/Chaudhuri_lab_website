@@ -8,10 +8,10 @@ group: research
 
 # Our research
 Cells in our body live in a 3-dimensional and often squishy world. Much of what we know about cell biology is based on studies of cells cultured on petri dishes, or rigid flat sheets of plastic. However, mammalian cells in soft tissues function in 3D microenvironments, which are soft and viscoelastic, and in which cells are surrounded by neighboring cells and an extracellular matrix. Importantly, cells sense and respond to the mechanical properties and dimensionality of the microenvironment, and a 3D microenvironment can be confining, serving as a physical barrier to processes such as cell migration or division that involve shape change or growth. We are interested in elucidating the mechanics of cell-matrix interactions in soft tissues. We seek to understand how the mechanical properties of the extracellular matrix regulate processes such as breast cancer progression, stem cell differentiation, and cell division. Further, we aim to determine the biophysics of cell migration and division in confining 3D microenvironments. Our approach involves the use of engineered biomaterials for 3D cell culture and instrumentation to measure forces at the microscale relevant to cells.
-
+<br>
 #### We work on using biomaterials to study cell biophysics and mechanotransduction, and using them as tools for therapies including drug delivery. 
 <br>
-<br>
+
 
 </div>
 <hr style="border: none; border-top: 1px dashed #ccc; height: 1px;"/>
@@ -22,8 +22,7 @@ Cells in our body live in a 3-dimensional and often squishy world. Much of what 
 
 Many soft tissues are viscoelastic, exhibiting stress relaxation in response to a deformation. We have found that extracellular matrix viscoelasticity regulates various cellular behaviors, such as spreading, differentiation, matrix formation, matrix remodeling, migration, and division. We seek to how elucidate the mechanisms by which matrix viscoelasticity influences cell biology, and harness these insights towards the development of new therapies and applications in regenerative medicine. A key finding is that cells utilize stretch-activated ion channels to sense matrix viscoelasticity.
 
-**Relevant publications:** 1. Lee, Stowers, and Chaudhuri, Volume expansion and TRPV4 activation regulate stem cell fate in three-dimensional microenvironments , Nature Communications (2019). 
-2. Lee, et al, Mechanical confinement regulates cartilage matrix formation by chondrocytes , Nature Materials (2017). 3. Chaudhuri, et al., Hydrogels with tunable stress relaxation regulate stem cell fate and activity, Nature Materials (2016). 4. Chaudhuri, et al., Substrate stress relaxation regulates cell spreading, Nature Communications (2015).
+**Relevant publications:** **1.** Lee, Stowers, and Chaudhuri, Volume expansion and TRPV4 activation regulate stem cell fate in three-dimensional microenvironments , Nature Communications (2019). **2.** Lee, et al, Mechanical confinement regulates cartilage matrix formation by chondrocytes , Nature Materials (2017). 3. Chaudhuri, et al., Hydrogels with tunable stress relaxation regulate stem cell fate and activity, Nature Materials (2016). 4. Chaudhuri, et al., Substrate stress relaxation regulates cell spreading, Nature Communications (2015).
 
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
@@ -35,15 +34,14 @@ Many soft tissues are viscoelastic, exhibiting stress relaxation in response to 
 <div class="row">
 
 ### Biophysics of cell migration
-<div class="col-md-7 order-md-2">
+<div class="col-md-7 order-md-1">
 
 Cell migration is critical for development, immune cell trafficking, wound healing, and metastasis. In many contexts, cells migrate through three-dimensionally confining microenvironments, where extracellular matrix pore size is smaller than that of the cells. For example, during cancer progression, carcinoma cells on the order of 10 microns in size must invade through a nanoporous basement membrane as a first step towards metastasis. We are investigating how cells push, pull, and degrade matrix in order to migrate through 3D tissue microenvironments. A particular area of interest is in understanding the role of matrix mechanical plasticity in mediating invasion and migration of cancer cells.
 
-**Relevant publications:** 1. Wisdom, et al, Matrix mechanical plasticity regulates cancer cell migration through confining microenvironments , Nature Communications (2018).
-2. Wisdom, et al, Covalent cross-linking of basement membrane-like matrices physically restricts invasive protrusions in breast cancer cells, Matrix Biology (2019).
+**Relevant publications:** **1.** Wisdom, et al, Matrix mechanical plasticity regulates cancer cell migration through confining microenvironments , Nature Communications (2018). **2.**Wisdom, et al, Covalent cross-linking of basement membrane-like matrices physically restricts invasive protrusions in breast cancer cells, Matrix Biology (2019).
 </div>
 
-<div class="col-md-5 order-md-1 align-self-center">
+<div class="col-md-5 order-md-2 align-self-center">
 <img class="img-fluid" src="/static/img/research/RD2.gif"  alt="ptp1b"> 
 </div>
 </div>
@@ -69,16 +67,21 @@ In many physiological contexts, cells divide in mechanically confining viscoelas
 
 ### How does increased stiffness promote breast cancer progression?
 
-<div class="col-md-7 order-md-2">
+<div class="col-md-7 order-md-1 ">
 
+Increased mammographic density, associated with an increase in tissue stiffness, is one of the strongest and most consistent risk factors for breast cancer progression. Various studies have established that increased stiffness promotes cancer progression, but the mechanisms mediating the effect of stiffness remain unclear. We seek to understand the mechanisms underlying the impact of increased stiffness on breast cancer progression in terms of cell-matrix interactions, and transcriptional and epigenetic regulation. Our vision is that by better understanding how mechanics influences breast cancer progression, we can develop more effective diagnostics and therapies.
 
-We are intrigued by the similarities in genetic epistasis and thermodynamic measurements and are applying these insights to large-scale studies of point mutants and posttranslational modifications. We attempt to connect the response to genetic (mutation), chemical (ligands), and physical (temperature) in experiments to define the basis of allosteric regulation and function. We like to bring an evolutionary biology perspective to the table to understand the relative importance of these different perturbations in shaping the proteins we see today.
+**Relevant publications:** 1. Stowers, et al. Matrix stiffness induces a tumorigenic phenotype in mammary epithelium through changes in chromatin accessibility, Nature Biomedical Engineering (2019). 
+2. Lee, et al. YAP-independent mechanotransduction drives breast cancer progression, Nature Communications (2019). 
+3. Chaudhuri, et al. Extracellular matrix stiffness and composition jointly regulate the induction of malignant phenotypes in mammary epithelium, Nature Materials (2014).
 </div>
 
-<div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2020_gordon_jang_bouhaddou_xu_obernier_white_omeara_rezelj.png" alt="hairball">
+<div class="col-md-5 order-md-2 align-self-center">
+
+<img class="img-fluid" src="/static/img/pub/2019_li_pellegrino.jpg" alt="antibiotic">
 </div>
 </div>
+<hr style="border: none; border-top: 1px dashed #ccc; height: 1px;"/>
 <div class="row">
 
 ### Tissue and biopolymer gel mechanics
