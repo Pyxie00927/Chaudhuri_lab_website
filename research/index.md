@@ -18,16 +18,15 @@ The long-term goals of our research are to understand how protein conformational
 <div class="row">
 
 ### Extracellular matrix viscoelasticity and its impact on cells
-  <div class="col-md-4">
-    <img src="/static/img/research/RD1.jpg" class="img-fluid" alt="Viscoelasticity">
-  </div>
-<div class="col-md-8">
+<div class="col-md-7 order-md-1 ">
 
 <p>Many soft tissues are viscoelastic, exhibiting stress relaxation in response to a deformation. We have found that extracellular matrix viscoelasticity regulates various cellular behaviors, such as spreading, differentiation, matrix formation, matrix remodeling, migration, and division. We seek to how elucidate the mechanisms by which matrix viscoelasticity influences cell biology, and harness these insights towards the development of new therapies and applications in regenerative medicine. A key finding is that cells utilize stretch-activated ion channels to sense matrix viscoelasticity.<p>
 
 <p></strong> Relevant publications: </strong>1. Lee, Stowers, and Chaudhuri, Volume expansion and TRPV4 activation regulate stem cell fate in three-dimensional microenvironments , Nature Communications (2019). 2. Lee, et al, Mechanical confinement regulates cartilage matrix formation by chondrocytes , Nature Materials (2017). 3. Chaudhuri, et al., Hydrogels with tunable stress relaxation regulate stem cell fate and activity, Nature Materials (2016). 4. Chaudhuri, et al., Substrate stress relaxation regulates cell spreading, Nature Communications (2015).<p>
 
 </div>
+<div class="col-md-5 order-md-2 align-self-center">
+ <img src="/static/img/research/RD1.jpg" class="img-fluid" alt="Viscoelasticity">
 </div>
 <div class="row">
 
@@ -41,16 +40,18 @@ The long-term goals of our research are to understand how protein conformational
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2018_keedy_hill.jpg" alt="ptp1b">
+<img class="img-fluid" src="/static/img/research/RD2.gif"  alt="ptp1b"> 
 </div>
 </div>
 <div class="row">
 
-### Determining structures that influence microbial-host interactions
+###  Cell division: force generation and mechanotransduction
 
 <div class="col-md-7 order-md-1 ">
 
-We are interested in the structural enzymology and potential therapeutic applications of the human enzymes that degrade chitin, the pervasive polymer that can cause inflammation in the context of allergy and asthma. Using high resolution cryo-electron microscopy (cryo-EM), we are studying the mechanisms of action to newly synthesized antibiotics (in collaboration with the [Seiple](https://seiplegroup.ucsf.edu/) and [Fujimori](https://fujimorilab.ucsf.edu) labs). With this platform, we are also pushing on cryo-EM data processing and refinement methods to enable structure-based drug design, now achieving resolutions better than 2.0 Å. With the improved molecules we generate, we are defining potential resistance mechanisms to these antibiotics using a combination of structural biology and deep mutational scanning experiments. In recent work, we are collaborating with the Bondy-Denomy lab to define the structural basis of anti-CRISPR proteins using a combination of X-ray crystallography, cryo-EM, and NMR. The mechanism of action for many of these proteins remains mysterious.
+<p>In many physiological contexts, cells divide in mechanically confining viscoelastic microenvironments, where they are surrounded by neighboring cells and ECM. Most of what is known about cell division is based on studies of cells dividing on 2D substrates, where they can simply release from the substrate and divide unrestricted. A mechanically confining microenvironment would be expected to restrict various morphological processes associated with cell cycle progression and cell division. We aim to uncover the how confinement impacts cell cycle progression, and how cells generate forces in order to divide in confining microenvironments.<p>
+
+<p></strong>Relevant publications:</strong> 1. Nam and Chaudhuri, Mitotic cells generate protrusive extracellular forces to divide in three-dimensional microenvironments , Nature Physics (2018).2. Nam, et al. Cell cycle progression in confining microenvironments is regulated by a growth-responsive TRPV4-PI3K/Akt-p27Kip1 signaling axis, in press.<p>
 </div>
 
 <div class="col-md-3 order-md-2 align-self-center">
