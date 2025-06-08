@@ -48,6 +48,13 @@
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
+.navbar-default {
+  .navbar-default {
+    background-color: #8C1515;  /* Stanford Red */
+    border-color: #7A1313;
+  }
+}
+
 
 /*
 body {
