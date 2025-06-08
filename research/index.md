@@ -30,8 +30,8 @@ Many soft tissues are viscoelastic, exhibiting stress relaxation in response to 
 </div>
 </div>
 
-<div class="row">
 <hr style="border: none; border-top: 1px dashed #ccc; height: 1px;" />
+<div class="row">
 
 ### Extracellular matrix viscoelasticity and its impact on cells
 <table>
