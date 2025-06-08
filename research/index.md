@@ -31,6 +31,7 @@ Many soft tissues are viscoelastic, exhibiting stress relaxation in response to 
 </div>
 
 <div class="row">
+<hr style="border: none; border-top: 1px dashed #ccc; height: 1px;" />
 
 ### Extracellular matrix viscoelasticity and its impact on cells
 <table>
@@ -38,6 +39,7 @@ Many soft tissues are viscoelastic, exhibiting stress relaxation in response to 
 <td style="width:65%; vertical-align:top;">
 
 Many soft tissues are viscoelastic, exhibiting stress relaxation in response to a deformation. We have found that extracellular matrix viscoelasticity regulates various cellular behaviors, such as spreading, differentiation, matrix formation, matrix remodeling, migration, and division. We seek to how elucidate the mechanisms by which matrix viscoelasticity influences cell biology, and harness these insights towards the development of new therapies and applications in regenerative medicine. A key finding is that cells utilize stretch-activated ion channels to sense matrix viscoelasticity.
+<br>
 
 **Relevant publications:** 
 **1.** Lee, Stowers, and Chaudhuri, Volume expansion and TRPV4 activation regulate stem cell fate in three-dimensional microenvironments , Nature Communications (2019). **2.** Lee, et al, Mechanical confinement regulates cartilage matrix formation by chondrocytes , Nature Materials (2017). 3. Chaudhuri, et al., Hydrogels with tunable stress relaxation regulate stem cell fate and activity, Nature Materials (2016). 4. Chaudhuri, et al., Substrate stress relaxation regulates cell spreading, Nature Communications (2015).
@@ -77,6 +79,8 @@ Cell migration is critical for development, immune cell trafficking, wound heali
 <td style="width:65%; vertical-align:top;">
 
 Cell migration is critical for development, immune cell trafficking, wound healing, and metastasis. In many contexts, cells migrate through three-dimensionally confining microenvironments, where extracellular matrix pore size is smaller than that of the cells. For example, during cancer progression, carcinoma cells on the order of 10 microns in size must invade through a nanoporous basement membrane as a first step towards metastasis. We are investigating how cells push, pull, and degrade matrix in order to migrate through 3D tissue microenvironments. A particular area of interest is in understanding the role of matrix mechanical plasticity in mediating invasion and migration of cancer cells.
+
+<br>
 
 **Relevant publications:**  
 **1.** Wisdom, et al, *Matrix mechanical plasticity regulates cancer cell migration through confining microenvironments*, Nature Communications (2018).  
