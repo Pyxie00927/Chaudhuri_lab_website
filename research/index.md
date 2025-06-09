@@ -113,10 +113,6 @@ In many physiological contexts, cells divide in mechanically confining viscoelas
 **Relevant publications:** 1. Nam and Chaudhuri, Mitotic cells generate protrusive extracellular forces to divide in three-dimensional microenvironments , Nature Physics (2018).2. Nam, et al. Cell cycle progression in confining microenvironments is regulated by a growth-responsive TRPV4-PI3K/Akt-p27Kip1 signaling axis, in press.
 </div>
 
-<div class="col-md-5 order-md-2 align-self-center">
-
-<img class="img-fluid" src="/static/img/pub/2019_li_pellegrino.jpg" alt="antibiotic">
-</div>
 </div>
 <hr style="border: none; border-top: 1px dashed #ccc; height: 1px;"/>
 <div class="row">
@@ -132,10 +128,6 @@ Increased mammographic density, associated with an increase in tissue stiffness,
 3. Chaudhuri, et al. Extracellular matrix stiffness and composition jointly regulate the induction of malignant phenotypes in mammary epithelium, Nature Materials (2014).
 </div>
 
-<div class="col-md-5 order-md-2 align-self-center">
-
-<img class="img-fluid" src="/static/img/pub/2019_li_pellegrino.jpg" alt="antibiotic">
-</div>
 </div>
 <hr style="border: none; border-top: 1px dashed #ccc; height: 1px;"/>
 <div class="row">
@@ -158,10 +150,6 @@ A major limitation of most biophysical techniques is the inability to directly r
 We are taking advantage of the new capabilities of next-generation X-ray free electron laser (X-FEL) light sources to perform radiation damage-free imaging of proteins and to watch how protein ensembles respond when perturbed by rapid temperature jumps using the X-FEL.
 At equilibrium, X-ray diffuse scattering has the potential to reveal these motions; however, we currently lack the ability to collect, integrate, and refine diffuse scattering data.
 Our long-term goal is to increase the information content of every X-ray diffraction experiment to reveal atomic level coupling at high resolution and improved models of grouped flexibility at low resolution.
-</div>
-
-<div class="col-md-5 order-md-2 align-self-center ">
-<img class="img-fluid" src="/static/img/pub/2019_thompson.jpg" alt="tjump">
 </div>
 
 </div>
