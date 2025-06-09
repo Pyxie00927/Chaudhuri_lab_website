@@ -1,12 +1,10 @@
 ---
-title: "Ig-like domains on bacteriophages: a tale of promiscuity and deceit"
-authors: "**Fraser JS**, Yu Z, Maxwell KL, Davidson AR"
-journal: "Journal of Molecular Biology"
-pub_date: "2006-06-02"
-image: "/static/img/pub/2006_fraser.jpg"
-pmid: "16631788"
-pdf: "http://cdn.fraserlab.com/publications/2006_fraser.pdf"
+title: "Cell volume expansion and local contractility drive collective invasion of the basement membrane in breast cancer"
+authors: "**Julie Chang**, **Aashrith Saraswathibhatla**, Zhaoqiang Song, Sushama Varma, Colline Sanchez, Naomi Hassan Kahtan Alyafei, Dhiraj Indana, Raleigh Slyman, Sucheta Srivastava, Katherine Liu, Michael C. Bassik, M. Peter Marinkovich, Louis Hodgson, Vivek Shenoy, Robert B. West & Ovijit Chaudhuri"
+journal: "Nature Materials"
+pub_date: "2023-11-13"
+pmid: "37957268"
 links:
-- name: "Davidson lab @ University of Toronto"
-  url: "http://individual.utoronto.ca/davidsonlab/Davidson_lab/Home.html"
+- name: "Cell volume expansion breast cancer invasion"
+  url: "https://pubmed.ncbi.nlm.nih.gov/37957268/"
 ---
