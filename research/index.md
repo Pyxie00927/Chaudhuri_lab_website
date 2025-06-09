@@ -78,7 +78,7 @@ Cell migration is critical for development, immune cell trafficking, wound heali
 -->
 <div class="row">
 
-### Biophysics of cell migration
+### Biophysics of cell migration 
 <table>
 <tr>
 <td style="width:65%; vertical-align:top;">
@@ -121,7 +121,7 @@ In many physiological contexts, cells divide in mechanically confining viscoelas
 <hr style="border: none; border-top: 1px dashed #ccc; height: 1px;"/>
 <div class="row">
 
-### How does increased stiffness promote breast cancer progression?
+### Cancer Mechanobiology 
 
 <div class="col-md-7 order-md-1 ">
 
@@ -140,7 +140,17 @@ Increased mammographic density, associated with an increase in tissue stiffness,
 <hr style="border: none; border-top: 1px dashed #ccc; height: 1px;"/>
 <div class="row">
 
-### Tissue and biopolymer gel mechanics
+### Mechanobiology in development 
+</div>
+<hr style="border: none; border-top: 1px dashed #ccc; height: 1px;"/>
+<div class="row">
+
+### Hydrogel-based drug delivery and immunotherapy 
+</div>
+<hr style="border: none; border-top: 1px dashed #ccc; height: 1px;"/>
+<div class="row">
+
+### Biomaterials development and biopolymer mechanics
 
 <div class="col-md-7 order-md-1">
 
@@ -155,8 +165,9 @@ Our long-term goal is to increase the information content of every X-ray diffrac
 </div>
 
 </div>
+<hr style="border: none; border-top: 1px dashed #ccc; height: 1px;"/>
+<div class="row">
 
-### Biomaterials development
+### Tools to probe forces at micro and nanoscales
 
-
-### New tools for force microscopy
+</div>
