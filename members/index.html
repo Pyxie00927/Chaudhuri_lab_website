@@ -73,20 +73,5 @@ The Chaudhuri lab welcomes people of any race, ethnicity, religion, national ori
 {% endfor %}
 
 <hr>
-<h4>Alumni</h4>
-<div class="container">
-  <div class="row">
-    {% assign counter = 0 %}
-    {% for member in site.alumni %}
-      <div class="col-md-6 text-center" style="margin-bottom: 30px;">
-        <img class="img-fluid rounded-circle" src="{{ member.image }}" alt="{{ member.name }}" style="width: 180px; height: 180px; object-fit: cover; margin-bottom: 10px;"><br>
-        <strong>{{ member.name }}</strong>
-      </div>
 
-      {% assign counter = counter | plus: 1 %}
-      {% if counter modulo 2 == 0 %}
-        </div><div class="row">
-      {% endif %}
-    {% endfor %}
-  </div>
-</div>
+
