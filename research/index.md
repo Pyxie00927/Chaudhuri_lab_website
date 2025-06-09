@@ -140,16 +140,13 @@ Increased mammographic density, associated with an increase in tissue stiffness,
 ### Hydrogel-based drug delivery and immunotherapy 
 </div>
 <hr style="border: none; border-top: 1px dashed #ccc; height: 1px;"/>
+
 <div class="row">
 
 ### Biomaterials development and biopolymer mechanics
 
 <div class="col-md-7 order-md-1">
-
-A major limitation of most biophysical techniques is the inability to directly reveal correlations in motions between distinct regions of macromolecules.
-We are taking advantage of the new capabilities of next-generation X-ray free electron laser (X-FEL) light sources to perform radiation damage-free imaging of proteins and to watch how protein ensembles respond when perturbed by rapid temperature jumps using the X-FEL.
-At equilibrium, X-ray diffuse scattering has the potential to reveal these motions; however, we currently lack the ability to collect, integrate, and refine diffuse scattering data.
-Our long-term goal is to increase the information content of every X-ray diffraction experiment to reveal atomic level coupling at high resolution and improved models of grouped flexibility at low resolution.
+Lorem ipsum
 </div>
 
 </div>
